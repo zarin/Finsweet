@@ -1,0 +1,1099 @@
+/* ===============================from 320px to 575px start=========================================== */
+@media (min-width:320px) and (max-width:575px){
+
+    .navbar-toggler{
+        background: white;
+    }
+
+    .banner_left {
+        margin-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .banner_left h3 {
+        width: auto;
+        font-size: 30px;
+        line-height: 50px;
+    }
+
+    .banner_left p {
+        width: auto;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 28px;
+    }
+
+    .banner_button {
+        display: inline-block;
+    }
+
+    .banner_btn2 {
+        margin-left: 60px;
+        margin-top: 20px;
+    }
+
+    .banner_right {
+        margin-top: 50px;
+    }
+
+    .banner_right img{
+        width:100%;
+        padding-bottom:50px;
+    }
+
+    #work {
+        padding-top: 50px;
+    }
+
+    .work_left h3 {
+        font-size: 35px;
+    }
+
+    .work_left p {
+        width: auto;
+    }
+
+    .work_btn {
+        margin-bottom: 30px;
+    }
+
+    .work_right {
+        padding-bottom: 50px;
+    }
+
+    .work_flex {
+        display: inline-block;
+        margin-bottom: 0px;
+    }
+
+    .work_items{
+        margin-bottom: 40px;
+    }
+
+    #projects {
+        padding-bottom: 50px;
+    }
+
+    .projects_title {
+        display: inline-block;
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .projects_title h3 {
+        font-size: 40px;
+        line-height: 50px;
+    }
+
+    .project_btn {
+        margin-top: 20px;
+    }
+
+    .project_left {
+        background-size: cover;
+        margin-bottom: 50px;
+    }
+
+    .project_overlay h3 {
+        padding-top: 30px;
+        padding-left: 10px;
+        font-size: 12px;
+        line-height: 18px;
+    }
+
+    .project_overlay p {
+        width: auto;
+        padding-top: 10px;
+        padding-left: 10px;
+        font-size: 12px;
+        font-weight: 400;
+        line-height: 16px;
+    }
+
+    .project_btn2 {
+        padding-top: 20px;
+        padding-left: 10px;
+        font-size: 12px;
+    }
+
+    .project_right {
+        background-size: cover;
+        height: 100%;
+    }
+
+    .project_overlay2 h3 {
+        width: auto;
+        padding-top: 50px;
+        padding-left: 48px;
+        line-height: 32px;
+    }
+
+    .project_btn3 {
+        padding-left: 48px;
+    }
+
+    .project_img3 {
+        width: 100%;
+    }
+
+    #design {
+        padding-bottom: 50px;
+    }
+
+    .design_title {
+        padding-top: 225px;
+    }
+
+    .design_title h3 {
+        width: auto;
+        font-size: 20px;
+        line-height: 35px;
+    }
+
+    .design_item {
+        padding-left: 25px;
+    }
+
+    .design_item p {
+        width: auto;
+    }
+
+    .clients_left {
+        margin-top: 50px;
+    }
+
+    .clients_left h3 {
+        width: auto;
+        font-size: 25px;
+        line-height: 48px;
+    }
+
+    .clients_left p {
+        width: auto;
+    }
+
+    .clients_right {
+        padding-bottom: 50px;
+    }
+
+    .clients_right h3 {
+        margin-top: 50px;
+        width: auto;
+        font-size: 18px;
+        line-height: 32px;
+    }
+
+    .angle1 {
+        bottom: 62px;
+        left: 200px;
+    }
+
+    .angle2 {
+        bottom: 62px;
+        left: 240px;
+    }
+
+    .question_left h3 {
+        padding-top: 50px;
+        width: auto;
+        font-size: 30px;
+        line-height: 50px;
+    }
+
+    .question_right {
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+
+    .ques_item {
+        gap: 10px;
+    }
+
+    .ques_item h4 {
+        font-size: 20px;
+        line-height: 30px;
+    }
+
+    .accordion-body p {
+        margin-left: 0px;
+        width: auto;
+        font-size: 16px;
+        line-height: 30px;
+    }
+
+    #inquiry {
+        margin-bottom: 50px;
+    }
+
+    .inquiry_left {
+        height: 100vh;
+        width: 100%;
+        background-size: cover;
+        margin-bottom: 50px;
+    }
+
+    .inq_overlay h3 {
+        padding-top: 30px;
+        padding-bottom: 20px;
+        padding-left: 20px;
+        width: auto;
+        font-size: 20px;
+        line-height: 40px;
+    }
+
+    .inq_overlay p {
+        padding-left: 20px;
+        width: auto;
+        font-size: 13px;
+        font-weight: 400;
+        line-height: 26px;
+    }
+
+    .inquiry_right {
+        margin-left: 0px;
+    }
+
+    .inquiry_right h3 {
+        padding-left: 30px;
+        padding-right: 30px;
+        padding-top: 50px;
+    }
+
+    .inquiry_right p {
+        width: auto;
+        padding-left: 30px;
+        padding-bottom: 40px;
+        font-size: 14px;
+        font-weight: 400;
+    }
+
+    input {
+        margin-left: 30px;
+        margin-bottom: 16px;
+        padding-left: 15px;
+        padding-right: 10px;
+    }
+
+    .inq_btn1 {
+        padding: 16px 20px;
+        margin-left: 60px;
+    }
+
+    .inq_btn2 {
+        padding: 16px 20px;
+        margin-left: 25px;
+        margin-bottom: 20px;
+    }
+
+    #blog h3 {
+        margin-bottom: 50px;
+        font-size: 40px;
+        line-height: 50px;
+    }
+
+    .blog_item img{
+        width:100%;
+    }
+
+    .blog_item h4 {
+        width: auto;
+    }
+
+    .blog_item p {
+        width: auto;
+    }
+
+    .blog_btn {
+        margin-bottom: 50px;
+    }
+
+    #talk {
+        padding-top: 50px;
+    }
+
+    .talk_left p {
+        width: auto;
+    }
+
+    .talk_flex {
+        width: auto;
+        gap: 20px;
+        padding-left: 20px;
+    }
+
+    .talk_item h5 {
+        font-size: 14px;
+        line-height: 25px;
+    }
+
+    .talk_item h6 {
+        font-size: 14px;
+        line-height: 25px;
+    }
+
+    .talk_right h3 {
+        margin-top: 30px;
+        font-size: 40px;
+    }
+
+    .talk_right p {
+        width: auto;
+    }
+
+    .icon {
+        margin-bottom: 30px;
+    }
+
+    footer {
+        margin-left: 30px;
+    }
+
+    .footer_flex {
+        display: inline-block;
+    }
+
+    ul {
+        display: inline-block;
+        margin-left: 60px;
+    }
+
+    li {
+        margin-bottom: 10px;
+    }
+}
+/* ===============================from 320px to 575px end=========================================== */
+
+
+
+/* ===============================from 576px to 767px start=========================================== */
+@media (min-width:576px) and (max-width:767px){
+
+    .navbar-toggler{
+        background: white;
+    }
+
+    .banner_left {
+        margin-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .banner_left h3 {
+        width: auto;
+        font-size: 30px;
+        line-height: 50px;
+    }
+
+    .banner_left p {
+        width: auto;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 28px;
+    }
+
+    .banner_button {
+        display: inline-block;
+    }
+
+    .banner_btn2 {
+        margin-left: 60px;
+        margin-top: 20px;
+    }
+
+    .banner_right {
+        margin-top: 50px;
+    }
+
+    .banner_right img{
+        width:100%;
+        padding-bottom:50px;
+    }
+
+    #work {
+        padding-top: 50px;
+    }
+
+    .work_left h3 {
+        font-size: 35px;
+    }
+
+    .work_left p {
+        width: auto;
+    }
+
+    .work_btn {
+        margin-bottom: 50px;
+    }
+
+    .work_right {
+        padding-bottom: 50px;
+    }
+
+    .work_flex {
+        display: inline-block;
+        margin-bottom: 0px;
+    }
+
+    .work_items{
+        margin-bottom: 60px;
+        padding-left: 150px;
+    }
+
+    #projects {
+        padding-bottom: 50px;
+    }
+
+    .projects_title {
+        display: inline-block;
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .projects_title h3 {
+        font-size: 40px;
+        line-height: 50px;
+    }
+
+    .project_btn {
+        margin-top: 20px;
+    }
+
+    .project_left {
+        background-size: cover;
+        margin-bottom: 50px;
+    }
+
+    .project_overlay h3 {
+        padding-top: 30px;
+        padding-left: 10px;
+        font-size: 12px;
+        line-height: 18px;
+    }
+
+    .project_overlay p {
+        width: auto;
+        padding-top: 10px;
+        padding-left: 10px;
+        font-size: 12px;
+        font-weight: 400;
+        line-height: 16px;
+    }
+
+    .project_btn2 {
+        padding-top: 20px;
+        padding-left: 10px;
+        font-size: 12px;
+    }
+
+    .project_right {
+        background-size: cover;
+        height: 100%;
+    }
+
+    .project_overlay2 h3 {
+        width: auto;
+        padding-top: 190px;
+        padding-left: 48px;
+        line-height: 32px;
+    }
+
+    .project_btn3 {
+        padding-left: 48px;
+    }
+
+    .project_img3 {
+        width: 100%;
+    }
+
+    #design {
+        padding-bottom: 50px;
+    }
+
+    .design_title {
+        padding-top: 445px;
+    }
+
+    .design_title h3 {
+        width: auto;
+        font-size: 20px;
+        line-height: 35px;
+    }
+
+    .design_item {
+        padding-left: 25px;
+    }
+
+    .design_item p {
+        width: auto;
+    }
+
+    .clients_left {
+        margin-top: 50px;
+    }
+
+    .clients_left h3 {
+        width: auto;
+        font-size: 25px;
+        line-height: 48px;
+    }
+
+    .clients_left p {
+        width: auto;
+    }
+
+    .clients_right {
+        padding-bottom: 50px;
+    }
+
+    .clients_right h3 {
+        margin-top: 50px;
+        width: auto;
+        font-size: 18px;
+        line-height: 32px;
+    }
+
+    .angle1 {
+        bottom: 62px;
+        left: 400px;
+    }
+
+    .angle2 {
+        bottom: 62px;
+        left: 450px;
+    }
+
+    .question_left h3 {
+        padding-top: 50px;
+        width: auto;
+        font-size: 30px;
+        line-height: 50px;
+    }
+
+    .question_right {
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+
+    .ques_item {
+        gap: 10px;
+    }
+
+    .ques_item h4 {
+        font-size: 20px;
+        line-height: 30px;
+    }
+
+    .accordion-body p {
+        margin-left: 0px;
+        width: auto;
+        font-size: 16px;
+        line-height: 30px;
+    }
+
+    #inquiry {
+        margin-bottom: 50px;
+    }
+
+    .inquiry_left {
+        height: 100vh;
+        width: 100%;
+        background-size: cover;
+        margin-bottom: 50px;
+    }
+
+    .inq_overlay h3 {
+        padding-top: 30px;
+        padding-bottom: 20px;
+        padding-left: 20px;
+        width: auto;
+        font-size: 20px;
+        line-height: 40px;
+    }
+
+    .inq_overlay p {
+        padding-left: 20px;
+        width: auto;
+        font-size: 13px;
+        font-weight: 400;
+        line-height: 26px;
+    }
+
+    .inquiry_right {
+        margin-left: 0px;
+    }
+
+    .inquiry_right h3 {
+        padding-left: 30px;
+        padding-right: 30px;
+        padding-top: 50px;
+    }
+
+    .inquiry_right p {
+        width: auto;
+        padding-left: 30px;
+        padding-bottom: 40px;
+        font-size: 14px;
+        font-weight: 400;
+    }
+
+    input {
+        margin-left: 30px;
+        margin-bottom: 16px;
+        padding-left: 15px;
+        padding-right: 10px;
+    }
+
+    .inq_btn1 {
+        padding: 16px 20px;
+        margin-left: 60px;
+    }
+
+    .inq_btn2 {
+        padding: 16px 20px;
+        margin-left: 25px;
+        margin-bottom: 20px;
+    }
+
+    #blog h3 {
+        margin-bottom: 50px;
+        font-size: 40px;
+        line-height: 50px;
+    }
+
+    .blog_item img{
+        width:100%;
+    }
+
+    .blog_item h4 {
+        width: auto;
+    }
+
+    .blog_item p {
+        width: auto;
+    }
+
+    .blog_btn {
+        margin-bottom: 50px;
+    }
+
+    #talk {
+        padding-top: 50px;
+    }
+
+    .talk_left p {
+        width: auto;
+    }
+
+    .talk_flex {
+        width: auto;
+        gap: 220px;
+        padding-left: 20px;
+    }
+
+    .talk_item h5 {
+        font-size: 14px;
+        line-height: 25px;
+    }
+
+    .talk_item h6 {
+        font-size: 14px;
+        line-height: 25px;
+    }
+
+    .talk_right h3 {
+        margin-top: 30px;
+        font-size: 40px;
+    }
+
+    .talk_right p {
+        width: auto;
+    }
+
+    .icon {
+        margin-bottom: 30px;
+    }
+
+    footer {
+        margin-left: 150px;
+    }
+
+    .footer_flex {
+        display: inline-block;
+    }
+
+    ul {
+        display: inline-block;
+        margin-left: 60px;
+    }
+
+    li {
+        margin-bottom: 10px;
+    }
+}
+/* ===============================from 576px to 767px end=========================================== */
+
+
+/* ===============================from 768px to 991px start=========================================== */
+@media (min-width:768px) and (max-width:991px){
+
+    .navbar-toggler{
+        background: white;
+    }
+
+    .banner_left {
+        margin-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .banner_left h3 {
+        width: auto;
+        font-size: 30px;
+        line-height: 50px;
+    }
+
+    .banner_left p {
+        width: auto;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 28px;
+    }
+
+    .banner_button {
+        display: inline-block;
+    }
+
+    .banner_btn2 {
+        margin-left: 60px;
+        margin-top: 20px;
+    }
+
+    .banner_right {
+        margin-top: 50px;
+    }
+
+    .banner_right img{
+        width:100%;
+        padding-bottom:50px;
+    }
+
+    #work {
+        padding-top: 50px;
+    }
+
+    .work_left h3 {
+        font-size: 35px;
+    }
+
+    .work_left p {
+        width: auto;
+    }
+
+    .work_btn {
+        margin-bottom: 50px;
+    }
+
+    .work_right {
+        padding-bottom: 50px;
+    }
+
+    .work_flex {
+        display: inline-block;
+        margin-bottom: 0px;
+    }
+
+    .work_items{
+        margin-bottom: 60px;
+        padding-left: 245px;
+    }
+
+    #projects {
+        padding-bottom: 50px;
+    }
+
+    .projects_title {
+        display: inline-block;
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .projects_title h3 {
+        font-size: 40px;
+        line-height: 50px;
+    }
+
+    .project_btn {
+        margin-top: 20px;
+    }
+
+    .project_left {
+        background-size: cover;
+        margin-bottom: 50px;
+    }
+
+    .project_overlay h3 {
+        padding-top: 30px;
+        padding-left: 10px;
+        font-size: 12px;
+        line-height: 18px;
+    }
+
+    .project_overlay p {
+        width: auto;
+        padding-top: 10px;
+        padding-left: 10px;
+        font-size: 12px;
+        font-weight: 400;
+        line-height: 16px;
+    }
+
+    .project_btn2 {
+        padding-top: 20px;
+        padding-left: 10px;
+        font-size: 12px;
+    }
+
+    .project_right {
+        background-size: cover;
+        height: 100%;
+    }
+
+    .project_overlay2 h3 {
+        width: auto;
+        padding-top: 190px;
+        padding-left: 48px;
+        line-height: 32px;
+    }
+
+    .project_btn3 {
+        padding-left: 48px;
+    }
+
+    .project_img3 {
+        width: 100%;
+    }
+
+    #design {
+        padding-bottom: 50px;
+    }
+
+    .design_title {
+        padding-top: 535px;
+    }
+
+    .design_title h3 {
+        width: auto;
+        font-size: 20px;
+        line-height: 35px;
+    }
+
+    .design_item {
+        padding-left: 25px;
+    }
+
+    .design_item p {
+        width: auto;
+    }
+
+    .clients_left {
+        margin-top: 50px;
+    }
+
+    .clients_left h3 {
+        width: auto;
+        font-size: 25px;
+        line-height: 48px;
+    }
+
+    .clients_left p {
+        width: auto;
+    }
+
+    .clients_right {
+        padding-bottom: 50px;
+    }
+
+    .clients_right h3 {
+        margin-top: 50px;
+        width: auto;
+        font-size: 18px;
+        line-height: 32px;
+    }
+
+    .angle1 {
+        bottom: 62px;
+        left: 400px;
+    }
+
+    .angle2 {
+        bottom: 62px;
+        left: 450px;
+    }
+
+    .question_left h3 {
+        padding-top: 50px;
+        width: auto;
+        font-size: 30px;
+        line-height: 50px;
+    }
+
+    .question_right {
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+
+    .ques_item {
+        gap: 10px;
+    }
+
+    .ques_item h4 {
+        font-size: 20px;
+        line-height: 30px;
+    }
+
+    .accordion-body p {
+        margin-left: 0px;
+        width: auto;
+        font-size: 16px;
+        line-height: 30px;
+    }
+
+    #inquiry {
+        margin-bottom: 50px;
+    }
+
+    .inquiry_left {
+        height: 100vh;
+        width: 100%;
+        background-size: cover;
+        margin-bottom: 50px;
+    }
+
+    .inq_overlay h3 {
+        padding-top: 30px;
+        padding-bottom: 20px;
+        padding-left: 20px;
+        width: auto;
+        font-size: 20px;
+        line-height: 40px;
+    }
+
+    .inq_overlay p {
+        padding-left: 20px;
+        width: auto;
+        font-size: 13px;
+        font-weight: 400;
+        line-height: 26px;
+    }
+
+    .inquiry_right {
+        margin-left: 0px;
+    }
+
+    .inquiry_right h3 {
+        padding-left: 30px;
+        padding-right: 30px;
+        padding-top: 50px;
+    }
+
+    .inquiry_right p {
+        width: auto;
+        padding-left: 30px;
+        padding-bottom: 40px;
+        font-size: 14px;
+        font-weight: 400;
+    }
+
+    input {
+        margin-left: 30px;
+        margin-bottom: 16px;
+        padding-left: 15px;
+        padding-right: 10px;
+    }
+
+    .inq_btn1 {
+        padding: 16px 20px;
+        margin-left: 60px;
+    }
+
+    .inq_btn2 {
+        padding: 16px 20px;
+        margin-left: 25px;
+        margin-bottom: 20px;
+    }
+
+    #blog h3 {
+        margin-bottom: 50px;
+        font-size: 40px;
+        line-height: 50px;
+    }
+
+    .blog_item img{
+        width:100%;
+    }
+
+    .blog_item h4 {
+        width: auto;
+    }
+
+    .blog_item p {
+        width: auto;
+    }
+
+    .blog_btn {
+        margin-bottom: 50px;
+    }
+
+    #talk {
+        padding-top: 50px;
+    }
+
+    .talk_left p {
+        width: auto;
+    }
+
+    .talk_flex {
+        width: auto;
+        gap: 220px;
+        padding-left: 20px;
+    }
+
+    .talk_item h5 {
+        font-size: 14px;
+        line-height: 25px;
+    }
+
+    .talk_item h6 {
+        font-size: 14px;
+        line-height: 25px;
+    }
+
+    .talk_right h3 {
+        margin-top: 30px;
+        font-size: 40px;
+    }
+
+    .talk_right p {
+        width: auto;
+    }
+
+    .icon {
+        margin-bottom: 30px;
+    }
+
+    footer {
+        margin-left: 240px;
+    }
+
+    .footer_flex {
+        display: inline-block;
+    }
+
+    ul {
+        display: inline-block;
+        margin-left: 60px;
+    }
+
+    li {
+        margin-bottom: 10px;
+    }
+}
+/* ===============================from 768px to 991px end=========================================== */
